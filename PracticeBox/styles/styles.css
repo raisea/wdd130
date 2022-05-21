@@ -1,0 +1,28 @@
+footer {
+    background-color: steelblue;
+    color: rgb(250, 247, 247);
+}
+
+footer p {
+    padding: 29px;  
+}
+
+nav {
+    background-color: steelblue;    
+}
+
+a {
+    color:white;
+}
+
+a{
+    padding: 29px;
+}
+
+body {
+    margin: 50px auto;
+}
+
+img {
+    border: 4px solid steelblue;
+}
